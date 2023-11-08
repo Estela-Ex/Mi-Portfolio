@@ -3,8 +3,7 @@ import "./intro.css";
 import { FaAward } from "react-icons/fa";
 import React from "react";
 import { VscFolderLibrary } from "react-icons/vsc";
-import img from '../../assets/Me.png'
-
+import img from '../../assets/foto linkedln.jpg'
 
 
 const Intro = () => {
@@ -34,7 +33,7 @@ const Intro = () => {
             Un año de experiencia como desarrolladora web Full Stack. Comencé con un bootcamp...
           </p>
           <a href="#contact" className="btn btn-primary">
-            Let's Talk
+            Hablemos
           </a>
         </div>
       </div>

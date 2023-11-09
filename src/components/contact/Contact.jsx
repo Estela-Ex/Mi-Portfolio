@@ -33,8 +33,7 @@ const Contact = () => {
     <section id="contact">
       <h5>Póngase en contacto</h5>
       <h5>
-        I do receive your messages and will respond asap if the valid email is
-        provided :)
+        Contestaré al email lo antes posible :)
       </h5>
       <h2>Contacto</h2>
       <div className="container contact__container">
@@ -42,7 +41,7 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>rasiftaghizade@gmail.com</h5>
+            <h5>estelaextremeracampos@gmail.com</h5>
             <a href="mailto:estelaextremeracampos@gmail.com">Envía el mensaje</a>
           </article>
         </div>

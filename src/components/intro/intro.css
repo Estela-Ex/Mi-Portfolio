@@ -4,14 +4,14 @@
     gap: 15%;
 }
 
-.about__me {
+/* .about__me {
     width: 100%;
     aspect-ratio: 1/1;
     border-radius: 2rem;
     background: linear-gradient(50deg, transparent, var(--color-primary), transparent);
     display: grid;
     place-items: center;
-}
+} */
 
 .about__me-image {
     border-radius: 2rem;

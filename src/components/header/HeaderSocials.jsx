@@ -13,7 +13,7 @@ const HeaderSocials = () => {
         <BsLinkedin />
       </a>
       <a
-        href="https://https://github.com/Estela-Ex"
+        href="https://https:/github.com/Estela-Ex"
         target="_blank"
         rel="noreferrer"
       >

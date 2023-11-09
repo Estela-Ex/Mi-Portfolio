@@ -7,9 +7,9 @@ const Header = () => {
   return (
     <header id="home">
       <div className="container header__container">
-        <h5>Hola soy</h5>
+        <h2>Hola soy</h2>
         <h1>Estela Extremera</h1>
-        <h5 className="text-light">Front-end Developer</h5>
+        <h2 className="text-light">Full Stack Developer</h2>
         <CTA />
         {/* <a href="#contact" className="scroll__down">
           Scroll Down

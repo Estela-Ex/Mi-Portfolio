@@ -30,7 +30,7 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            Un año de experiencia como desarrolladora web Full Stack. Comencé con un bootcamp...
+            Después de más de 17 años en otro sector (Telemarketing), donde realizaba formaciones para nuevas incorporaciones a las empresas, cursos de reciclaje para los agentes veteranos, además de llevar equipos de ventas con objetivos grupales e individuales, llegué a un punto donde no avanzaba y por esto decidí reinventarme. Gracias a personas cercanas a mi entorno empecé con la programación y descubrí que me encantaba y que se abría un abanico muy amplio de posibilidades. Así que comencé en este maravilloso mundo, donde tengo muy claro que quiero seguir aprendiendo y avanzando todos los días
           </p>
           <a href="#contact" className="btn btn-primary">
             Hablemos

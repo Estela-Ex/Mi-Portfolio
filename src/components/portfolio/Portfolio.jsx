@@ -1,6 +1,6 @@
 import "./portfolio.css";
 
-import IMG1 from "../../assets/Educational Website.jpg";
+import IMG1 from "../../assets/rick and morty.png";
 import IMG2 from "../../assets/RubyCode Blog Project.jpg";
 import IMG3 from "../../assets/Startup Agency Project.jpg";
 import IMG4 from "../../assets/Covid-19 Project.jpg";
@@ -13,13 +13,13 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: "Educational Website with React.js",
+      title: "Rick and Morty",
       img: IMG1,
       description:
-        "An educational website is a huge interactive platform to present various information for people.",
+        "Página web de Ricky y Morty, donde podemos encontrar a todos sus personajes",
       technologies: "Html | CSS | Javascript | React Js",
-      link: "https://educational-website-reactjs.netlify.app/",
-      github: "https://github.com/Rasif-Taghizada/Educational-Website-ReactJs",
+      // link: "https://educational-website-reactjs.netlify.app/",
+      github: "https://https://github.com/Estela-Ex/RickandMortyApiPRO",
     },
     {
       id: 2,
@@ -35,7 +35,8 @@ const Portfolio = () => {
       id: 3,
       title: "RubyCode Blog Project",
       img: IMG2,
-      description: "This site is a kind of social media platform. You can register and share your posts.",
+      description:
+        "This site is a kind of social media platform. You can register and share your posts.",
       technologies: "React | Redux",
       link: "https://rubycode-blog-project.vercel.app/",
       github: "https://github.com/Rasif-Taghizada/RubyCode-Blog",
@@ -74,7 +75,7 @@ const Portfolio = () => {
 
   return (
     <section id="portfolio">
-      <h5>My Recent Work</h5>
+      {/* <h5>My Recent Work</h5> */}
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">

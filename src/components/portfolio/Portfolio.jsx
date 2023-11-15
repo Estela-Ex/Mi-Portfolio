@@ -1,9 +1,8 @@
 import "./portfolio.css";
 
 import IMG1 from "../../assets/rick and morty.png";
-import IMG2 from "../../assets/RubyCode Blog Project.jpg";
-import IMG3 from "../../assets/Startup Agency Project.jpg";
-import IMG4 from "../../assets/Covid-19 Project.jpg";
+import IMG2 from "../../assets/Seguimiento citas pacientes Veterinario.png";
+import IMG3 from "../../assets/simpsons.png";
 import IMG5 from "../../assets/Jokes Project.jpg";
 import IMG6 from "../../assets/Project4.jpg";
 import React from "react";
@@ -16,30 +15,30 @@ const Portfolio = () => {
       title: "Rick and Morty",
       img: IMG1,
       description:
-        "Página web de Ricky y Morty, donde podemos encontrar a todos sus personajes",
+        "Aquí podrás encontrar a todos los personajes de Rick and Morty de una manera muy sencilla",
       technologies: "Html | CSS | Javascript | React Js",
-      // link: "https://educational-website-reactjs.netlify.app/",
-      github: "https://https://github.com/Estela-Ex/RickandMortyApiPRO",
+      link: "https://vermillion-starlight-90c2b6.netlify.app",
+      github: "https://github.com/Estela-Ex/RickandMortyApiPRO",
     },
     {
       id: 2,
-      title: "Covid-19 Tracking App",
-      img: IMG4,
+      title: "Seguimiento de pacientes para un Veterinario",
+      img: IMG2,
       description:
-        "The COVID Tracking Project collects and publishes the most complete testing data available for all areas of the world.",
-      technologies: "React | Redux",
-      link: "https://covid-19-tracker-weld-nu.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Covid-19-Tracking",
+        "Esta web está creada para llevar un control de los pacientes en un veterinario",
+      technologies: "Html | CSS | Javascript | React Js",
+      link: "https://citasreactudemy.netlify.app",
+      github: "https://github.com/Estela-Ex/crm-react",
     },
     {
       id: 3,
-      title: "RubyCode Blog Project",
-      img: IMG2,
+      title: "Simpsons",
+      img: IMG3,
       description:
-        "This site is a kind of social media platform. You can register and share your posts.",
-      technologies: "React | Redux",
-      link: "https://rubycode-blog-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/RubyCode-Blog",
+        "Con esta web podrás acceder a todos tus personajes favoritos de los Simpsons",
+      technologies: "Html | CSS | Javascript | React Js | Typescript",
+      link: "https://ubiquitous-smakager-37a061.netlify.app",
+      github: "https://github.com/Estela-Ex/Api_Simpsons",
     },
     {
       id: 4,

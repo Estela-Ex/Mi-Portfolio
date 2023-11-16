@@ -2,9 +2,10 @@ import "./portfolio.css";
 
 import IMG1 from "../../assets/rick and morty.png";
 import IMG2 from "../../assets/Seguimiento citas pacientes Veterinario.png";
-import IMG3 from "../../assets/simpsons.png";
-import IMG5 from "../../assets/Jokes Project.jpg";
-import IMG6 from "../../assets/Project4.jpg";
+import IMG3 from "../../assets/buscador de clima.png";
+import IMG4 from "../../assets/control de gastos.png";
+import IMG5 from "../../assets/simpsons.png";
+import IMG6 from "../../assets/buscador de clima.png";
 import React from "react";
 
 //Portfolio function
@@ -32,6 +33,35 @@ const Portfolio = () => {
     },
     {
       id: 3,
+      title: "Buscador de clima",
+      img: IMG3,
+      description: "Buscador de clima",
+      technologies: "Html | CSS | Javascript | React Js",
+      link: "https://resonant-duckanoo-0266b1.netlify.app",
+      github: "https://github.com/Estela-Ex/Buscador-de-clima",
+    },
+    {
+      id: 4,
+      title: "Control de Gastos",
+      img: IMG4,
+      description:
+        "Con esta web podrás llevar un control de todos tus gastos, ayudandote a llegar al ahorro",
+      technologies: "Html | CSS | Javascript | React Js ",
+      link: "https://delicate-clafoutis-196abf.netlify.app",
+      github: "https://github.com/Estela-Ex/control-de-presupuestos",
+    },
+    {
+      id: 5,
+      title: "CRM Clientes",
+      img: IMG5,
+      description:
+        "Con esta web podrás acceder a todos tus personajes favoritos de los Simpsons",
+      technologies: "Html | CSS | Javascript | React Js | tailwind CSS",
+      link: "https://ubiquitous-smakager-37a061.netlify.app",
+      github: "https://github.com/Estela-Ex/Api_Simpsons",
+    },
+    {
+      id: 6,
       title: "Simpsons",
       img: IMG3,
       description:
@@ -39,36 +69,6 @@ const Portfolio = () => {
       technologies: "Html | CSS | Javascript | React Js | Typescript",
       link: "https://ubiquitous-smakager-37a061.netlify.app",
       github: "https://github.com/Estela-Ex/Api_Simpsons",
-    },
-    {
-      id: 4,
-      title: "Startup Landing Page",
-      img: IMG3,
-      description:
-        "A dedicated, standalone web page built for specific campaigns and target audiences.",
-      technologies: "Html | CSS | JavaScript | Next Js",
-      link: "https://alpha-agency-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Alpha-Agency-Project",
-    },
-    {
-      id: 5,
-      title: "Jokes Project with Typescript",
-      img: IMG5,
-      description:
-        "For when you need a fast funny joke, here are some short jokes to get anyone giggling.",
-      technologies: "Html | Styled-components | Typescript",
-      link: "https://jokes-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Joke-App",
-    },
-    {
-      id: 6,
-      title: "Fs Poster Website",
-      img: IMG6,
-      description:
-        "Real-world group project which is still in progress and will provide educational platform for future young developers",
-      technologies: "Html | Scss | Javascript",
-      link: "https://fs-poster-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Fs-Poster-Project",
     },
   ];
 

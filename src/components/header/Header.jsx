@@ -11,9 +11,9 @@ const Header = () => {
         <h1>Estela Extremera</h1>
         <h2 className="text-light">Full Stack Developer</h2>
         <CTA />
-        {/* <a href="#contact" className="scroll__down">
-          Scroll Down
-        </a> */}
+        <a href="#contact" className="scroll__down">
+          Haz scroll
+        </a>
         <HeaderSocials />
       </div>
     </header>

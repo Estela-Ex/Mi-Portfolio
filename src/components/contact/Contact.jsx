@@ -31,10 +31,10 @@ const Contact = () => {
   };
   return (
     <section id="contact">
-      <h5>Póngase en contacto</h5>
-      <h5>
+      {/* <h5>Póngase en contacto</h5> */}
+      {/* <h5>
         Contestaré al email lo antes posible :)
-      </h5>
+      </h5> */}
       <h2>Contacto</h2>
       <div className="container contact__container">
         <div className="contact__options">
@@ -67,7 +67,7 @@ const Contact = () => {
           <button type="submit" className="btn btn-primary">
             Enviar Mensaje
           </button>
-          {message && <span>Gracias, te contestaré lo antes posible</span>}
+          {message && <span>Gracias, contestaré lo antes posible</span>}
         </form>
       </div>
     </section>

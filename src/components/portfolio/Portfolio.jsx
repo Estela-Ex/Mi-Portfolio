@@ -52,21 +52,20 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      title: "CRM Clientes",
+      title: "Simpsons",
       img: IMG5,
       description:
         "Con esta web podrás acceder a todos tus personajes favoritos de los Simpsons",
-      technologies: "Html | CSS | Javascript | React Js | tailwind CSS",
+      technologies: "Html | CSS | Javascript | React Js | Typescript",
       link: "https://ubiquitous-smakager-37a061.netlify.app",
       github: "https://github.com/Estela-Ex/Api_Simpsons",
     },
     {
       id: 6,
-      title: "Simpsons",
+      title: "Cotizador de Criptomonedas",
       img: IMG6,
-      description:
-        "Con esta web podrás acceder a todos tus personajes favoritos de los Simpsons",
-      technologies: "Html | CSS | Javascript | React Js | Typescript",
+      description: "Sencillo cotizador de criptomonedas",
+      technologies: "Html | CSS | Javascript | React Js | tailwind CSS",
       link: "https://delightful-bavarois-118b96.netlify.app",
       github: "https://github.com/Estela-Ex/Cotizador-Criptomonedas",
     },

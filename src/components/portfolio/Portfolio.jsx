@@ -5,7 +5,7 @@ import IMG2 from "../../assets/Seguimiento citas pacientes Veterinario.png";
 import IMG3 from "../../assets/buscador de clima.png";
 import IMG4 from "../../assets/control de gastos.png";
 import IMG5 from "../../assets/simpsons.png";
-import IMG6 from "../../assets/buscador de clima.png";
+import IMG6 from "../../assets/cotizador criptomonedas.png";
 import React from "react";
 
 //Portfolio function
@@ -63,12 +63,12 @@ const Portfolio = () => {
     {
       id: 6,
       title: "Simpsons",
-      img: IMG3,
+      img: IMG6,
       description:
         "Con esta web podrás acceder a todos tus personajes favoritos de los Simpsons",
       technologies: "Html | CSS | Javascript | React Js | Typescript",
-      link: "https://ubiquitous-smakager-37a061.netlify.app",
-      github: "https://github.com/Estela-Ex/Api_Simpsons",
+      link: "https://delightful-bavarois-118b96.netlify.app",
+      github: "https://github.com/Estela-Ex/Cotizador-Criptomonedas",
     },
   ];
 

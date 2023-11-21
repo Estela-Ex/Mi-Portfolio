@@ -16,7 +16,7 @@ const Portfolio = () => {
       title: "Rick and Morty",
       img: IMG1,
       description:
-        "Aquí podrás encontrar a todos los personajes de Rick and Morty de una manera muy sencilla",
+        "Aquí podrás encontrar a todos los personajes de Rick and Morty de una manera muy sencilla, como caracteristicas, episodios, etc...",
       technologies: "Html | CSS | Javascript | React Js",
       link: "https://vermillion-starlight-90c2b6.netlify.app",
       github: "https://github.com/Estela-Ex/RickandMortyApiPRO",
@@ -26,8 +26,8 @@ const Portfolio = () => {
       title: "Seguimiento de pacientes para un Veterinario",
       img: IMG2,
       description:
-        "Esta web está creada para llevar un control de los pacientes en un veterinario",
-      technologies: "Html | CSS | Javascript | React Js",
+        "Esta web está creada para llevar un control de los pacientes en un veterinario, pudiendo aplicarse a cualquier negocio que necesite un control de citas",
+      technologies: "Html | CSS | Javascript | React Js | Tailwind CSS",
       link: "https://citasreactudemy.netlify.app",
       github: "https://github.com/Estela-Ex/crm-react",
     },
@@ -45,7 +45,7 @@ const Portfolio = () => {
       title: "Control de Gastos",
       img: IMG4,
       description:
-        "Con esta web podrás llevar un control de todos tus gastos, ayudandote a llegar al ahorro",
+        "Con esta aplicación podrás llevar un control de tu economia, teniendo en cuenta todos los gastos e ingresos. En todo momento sabremos el porcentaje gastado",
       technologies: "Html | CSS | Javascript | React Js ",
       link: "https://delicate-clafoutis-196abf.netlify.app",
       github: "https://github.com/Estela-Ex/control-de-presupuestos",
@@ -57,14 +57,14 @@ const Portfolio = () => {
       description:
         "Con esta web podrás acceder a todos tus personajes favoritos de los Simpsons",
       technologies: "Html | CSS | Javascript | React Js | Typescript",
-      link: "https://ubiquitous-smakager-37a061.netlify.app",
+      link: "https://tangerine-sundae-07a89f.netlify.app",
       github: "https://github.com/Estela-Ex/Api_Simpsons",
     },
     {
       id: 6,
       title: "Cotizador de Criptomonedas",
       img: IMG6,
-      description: "Sencillo cotizador de criptomonedas",
+      description: "Con la ayuda de esta web, podremos obtener una serie de valores en función de que criptomoneda queramos la información y en que divisa la queremos",
       technologies: "Html | CSS | Javascript | React Js | tailwind CSS",
       link: "https://delightful-bavarois-118b96.netlify.app",
       github: "https://github.com/Estela-Ex/Cotizador-Criptomonedas",

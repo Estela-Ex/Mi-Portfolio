@@ -1,9 +1,9 @@
-import './contact.css';
+import "./contact.css";
 
-import React, { useRef, useState } from 'react';
+import React, { useRef, useState } from "react";
 
-import { MdOutlineEmail } from 'react-icons/md';
-import emailjs from '@emailjs/browser';
+import { MdOutlineEmail } from "react-icons/md";
+import emailjs from "@emailjs/browser";
 
 const Contact = () => {
   const [message, setMessage] = useState(false);
@@ -13,10 +13,10 @@ const Contact = () => {
     setMessage(true);
     emailjs
       .sendForm(
-        'service_k2qawqh',
-        'template_c6rkpn6',
+        "contacto_porfolio",
+        "template_xpycmke",
         formRef.current,
-        'X7K7ebhIeOy3YwHki'
+        "iy3zefHSlkUm-Ewvh"
       )
       .then(
         (result) => {
@@ -46,18 +46,8 @@ const Contact = () => {
           </article>
         </div>
         <form ref={formRef} onSubmit={handleSubmit}>
-          <input
-            type="text"
-            placeholder="Nombre"
-            name="user_name"
-            required
-          />
-          <input
-            type="text"
-            placeholder="Email"
-            name="user_email"
-            required
-          />
+          <input type="text" placeholder="Nombre" name="user_name" required />
+          <input type="text" placeholder="Email" name="user_email" required />
           <textarea
             placeholder="Introduce tu mensaje"
             rows="7"

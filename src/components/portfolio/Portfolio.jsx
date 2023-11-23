@@ -18,7 +18,7 @@ const Portfolio = () => {
       description:
         "Aquí podrás encontrar a todos los personajes de Rick and Morty de una manera muy sencilla, como caracteristicas, episodios, etc...",
       technologies: "Html | CSS | Javascript | React Js",
-      link: "https://vermillion-starlight-90c2b6.netlify.app",
+      link: "https://rickandmortypro.netlify.app/",
       github: "https://github.com/Estela-Ex/RickandMortyApiPRO",
     },
     {
@@ -28,7 +28,7 @@ const Portfolio = () => {
       description:
         "Esta web está creada para llevar un control de los pacientes en un veterinario, pudiendo aplicarse a cualquier negocio que necesite un control de citas",
       technologies: "Html | CSS | Javascript | React Js | Tailwind CSS",
-      link: "https://citasreactudemy.netlify.app",
+      link: "https://seguimientosdepacientes.netlify.app/",
       github: "https://github.com/Estela-Ex/crm-react",
     },
     {
@@ -37,7 +37,7 @@ const Portfolio = () => {
       img: IMG3,
       description: "Buscador de clima",
       technologies: "Html | CSS | Javascript | React Js",
-      link: "https://resonant-duckanoo-0266b1.netlify.app",
+      link: "https://buscadordeclimaeex.netlify.app/",
       github: "https://github.com/Estela-Ex/Buscador-de-clima",
     },
     {
@@ -47,7 +47,7 @@ const Portfolio = () => {
       description:
         "Con esta aplicación podrás llevar un control de tu economia, teniendo en cuenta todos los gastos e ingresos. En todo momento sabremos el porcentaje gastado",
       technologies: "Html | CSS | Javascript | React Js ",
-      link: "https://delicate-clafoutis-196abf.netlify.app",
+      link: "https://controldegastoseex.netlify.app/",
       github: "https://github.com/Estela-Ex/control-de-presupuestos",
     },
     {
@@ -67,7 +67,7 @@ const Portfolio = () => {
       description:
         "Con la ayuda de esta web, podremos obtener una serie de valores en función de que criptomoneda queramos la información y en que divisa la queremos",
       technologies: "Html | CSS | Javascript | React Js | tailwind CSS",
-      link: "https://delightful-bavarois-118b96.netlify.app",
+      link: "https://cotizadorcriptomonedaseex.netlify.app/",
       github: "https://github.com/Estela-Ex/Cotizador-Criptomonedas",
     },
   ];

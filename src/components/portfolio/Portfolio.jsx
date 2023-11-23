@@ -57,14 +57,15 @@ const Portfolio = () => {
       description:
         "Con esta web podrás acceder a todos tus personajes favoritos de los Simpsons",
       technologies: "Html | CSS | Javascript | React Js | Typescript",
-      link: "https://tangerine-sundae-07a89f.netlify.app",
+      link: "apisimpsons.netlify.app",
       github: "https://github.com/Estela-Ex/Api_Simpsons",
     },
     {
       id: 6,
       title: "Cotizador de Criptomonedas",
       img: IMG6,
-      description: "Con la ayuda de esta web, podremos obtener una serie de valores en función de que criptomoneda queramos la información y en que divisa la queremos",
+      description:
+        "Con la ayuda de esta web, podremos obtener una serie de valores en función de que criptomoneda queramos la información y en que divisa la queremos",
       technologies: "Html | CSS | Javascript | React Js | tailwind CSS",
       link: "https://delightful-bavarois-118b96.netlify.app",
       github: "https://github.com/Estela-Ex/Cotizador-Criptomonedas",

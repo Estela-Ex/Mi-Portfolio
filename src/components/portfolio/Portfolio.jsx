@@ -57,7 +57,7 @@ const Portfolio = () => {
       description:
         "Con esta web podrás acceder a todos tus personajes favoritos de los Simpsons",
       technologies: "Html | CSS | Javascript | React Js | Typescript",
-      link: "apisimpsons.netlify.app",
+      link: "https://apisimpsons.netlify.app/",
       github: "https://github.com/Estela-Ex/Api_Simpsons",
     },
     {
